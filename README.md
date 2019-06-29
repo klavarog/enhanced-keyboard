@@ -71,6 +71,8 @@ Alt = %
 
 Установка конфигурации: переименовать в `Settings.aidb` и поместить в папку с программой.
 
+Изображения сделаны с помощью сайта [keyboard layout editor.com](http://www.keyboard-layout-editor.com/), а конкретно с помощью [модификации optozorax'а](https://github.com/optozorax/my-keyboard-layout-editor) с красивыми клавишами, json файлы для этой модификации находятся в папке img.
+
 ### Обычная конфигурация
 
 ![](img/arrows1.png)
